@@ -1,4 +1,9 @@
-## Hi there 👋
+## HugeStore（开发中）
+
+一个全能的Telegram搜索引擎
+
+## 项目设计
+
 
 <!--
 
